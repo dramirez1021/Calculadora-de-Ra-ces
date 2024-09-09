@@ -41,4 +41,3 @@ Para ejecutar el programa necesitarás:
   Ejecuta el archivo .jar
 
   
-Este README explica cómo usar la calculadora, las funcionalidades principales y cómo ejecutar tanto el archivo ejecutable como el código fuente.
